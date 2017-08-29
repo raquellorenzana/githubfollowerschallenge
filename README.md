@@ -20,7 +20,7 @@
 
 ## About me:
 
-- https://www.devraq.com
+- www.devraq.com
 - https://www.linkedin.com/in/raquellorenzana
 
 ## Hosted challenge:
