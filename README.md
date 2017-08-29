@@ -10,8 +10,8 @@
 
 - Bootstrap allowed me to address most UI needs. As far as layout, I played around with alternative ways of listing more results per page, through use of multiple columns, but made results overwhelming. 
 - Animate.CSS was added for some emphasis on title and returned user search results. 
-- Initially I used plain JS, however with ever mounting html creation code, jQuery minimized that. Of course data requests were made from specific endpoints, which upon success, call functions to display HTML of user and follower results data.
-- Valuable additions for user, may include sort functionality, and potential pagination structure, however the assigned "Load More" button, along with the "Back to Search" anchor keeps things simple, and easy. 
+- Initially I used plain JS, however with ever mounting html creation, jQuery minimized that. Of course data requests were made from specific endpoints, which upon success, call functions to display HTML of user and follower results.
+- Valuable additions for user may include sort functionality, and potential pagination structure, however the assigned "Load More" button, along with the "Back to Search" anchor keeps things simple, and easy. 
 
 ## Other projects:
 
